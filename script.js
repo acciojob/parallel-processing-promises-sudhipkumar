@@ -1,5 +1,7 @@
 //your JS code here. If required.
 const output = document.getElementById("output");
+const loading = document.getElementById("loading");
+const errorDiv = document.getElementById("error");
 const btn = document.getElementById("download-images-button");
 
 const images = [
